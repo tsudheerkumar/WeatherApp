@@ -12,6 +12,14 @@ In the project directory, you can run:
 ### to run eslint
 npm run lint
 
+
+### deployment
+App is deployed in GH pages
+https://tsudheerkumar.github.io/WeatherApp/
+
+### How to deploy in GH Pages
+https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
