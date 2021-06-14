@@ -1,0 +1,6 @@
+{
+    "ignorePatterns": ["**.test.js"],
+    "rules": {
+        //...
+    }
+}
